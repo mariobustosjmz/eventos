@@ -1,0 +1,27 @@
+body {
+    padding-top: 80px;
+}
+
+.table > tbody > tr > td {
+    vertical-align: middle;
+}
+
+.ico {
+    font-size: 17px !important;
+}
+
+.toast.error {
+    background: #f55549;
+}
+
+i.small-ico {
+    font-size: 15px;
+}
+
+label.col-lg-2.control-label {
+    text-align: justify;
+}
+
+.picker__holder {
+    overflow-y: inherit;
+}

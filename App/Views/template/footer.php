@@ -9,9 +9,8 @@
 </html>
 
 
-<script src='<?php echo APPPATH ?>js/jquery.min.js'></script>
-<script src='<?php echo APPPATH . ASSETS_PATH ?>js/jquery.min.js'></script>
-<script src='<?php echo '/' . ASSETS_PATH ?>js/bootstrap.min.js'></script>
+<script src='<?php echo ASSETS_PATH ?>/js/jquery.min..js'></script>
+<script src='<?php echo ASSETS_PATH ?>/js/bootstrap.min.js'></script>
 <script src='<?php echo ASSETS_PATH ?>/js/material.js'></script>
 <script src='eventos/App/Views/assets/js/ripples.js'></script>
 <script src='/App/Views/assets/js/ripples.js'></script>

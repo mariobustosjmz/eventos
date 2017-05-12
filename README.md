@@ -7,7 +7,7 @@ Del Curso [Sistemas Dinamicos](http://codifika.mx/php.html) impartido personalme
 
 
 ## Screens
-![alt tag](https://github.com/mariobustosjmz/eventos/blob/master/screens/screens.png)
+![alt tag](https://github.com/mariobustosjmz/eventos/blob/master/screens/screen.png)
 
 
 # [Temario](https://github.com/mariobustosjmz/FileManagerApp/blob/master/Temario.md)
